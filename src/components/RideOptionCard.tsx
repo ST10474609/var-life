@@ -1,0 +1,1 @@
+export const RideOptionCard = ({ ride }) => <div>{ride.name}</div>;

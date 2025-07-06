@@ -1,0 +1,1 @@
+export default function SignUpScreen() { return <div>Sign Up</div>; }
